@@ -11,7 +11,7 @@ This is a **group project** for **Course MAT3378 - Big Data Management**.
 #### 2. About the project
   - summary: a system to **predict continuously flight delay** at take-off and/or departure
   - topics covered: real-time classification, stream processing, data pipeline, decision tree, gradient boost tree
-  - tech stack: Kafka, Spark Structured Streaming, PySpark
+  - tech stack: **Kafka, Spark Structured Streaming, PySpark**
   - results:
     + simulated **real-world data stream** and data **processing pipeline**
     + built models with **machine learning classfication** algorithms
